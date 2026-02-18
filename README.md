@@ -73,7 +73,7 @@ linear.ipynb
 bashpip install numpy pandas matplotlib statsmodels scipy
 
 🚀 Usage
-bashgit clone https://github.com/your-username/your-repo.git
+bashgit clone (https://github.com/FATTO447/linear-regression/tree/main)
 cd your-repo
 jupyter notebook linear.ipynb
 
